@@ -162,14 +162,14 @@ sup {
 }
 
 a {
-  color: #007bff;
+  color: #FA7814;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
 
 a:hover {
-  color: #0056b3;
+  color: #fda15b;
   text-decoration: underline;
 }
 
@@ -9065,7 +9065,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 /* Style the front side (fallback if image is missing) */
 .flip-card-front {
-  background-color: #bbb;
+  background-color: #363050;
   color: black;
 }
 
